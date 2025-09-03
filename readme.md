@@ -7,24 +7,31 @@ Perfect for websites with minimal JavaScript dependency, offering effortless mob
 
 ---
 
-##  Features
+## ✨ Features
 - Fully **responsive design** with seamless adaptation on mobile and desktop.
 - Built using **Tailwind CSS** for streamlined and utility-first styling.
 - Lightweight and performant — only essential markup and CSS.
-- Easily **customizable** with tailwind classes and color schemes.
+- Easily **customizable** with Tailwind classes and color schemes.
 
 ---
 
-##  Technologies & Tools
+## 📸 Screenshots
+<div align="center">
+  <img src="nav1.png" alt="Navbar Screenshot 1" width="600"/>
+  <br/><br/>
+  <img src="nav2.png" alt="Navbar Screenshot 2" width="600"/>
+</div>
 
+---
+
+## 🛠️ Technologies & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwind,css" alt="Tech Icons" /><br/>
 </div>
 
 ---
 
-##  Usage Instructions
-
+## 🚀 Run Locally
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/sh-hridoy001/responsive-navigation-bar.git>
+   git clone https://github.com/sh-hridoy001/responsive-navigation-bar.git
