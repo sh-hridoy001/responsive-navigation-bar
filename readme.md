@@ -16,11 +16,20 @@ Perfect for websites with minimal JavaScript dependency, offering effortless mob
 ---
 
 ## 📸 Screenshots
-<div align="center">
-  <img src="nav1.png" alt="Navbar Screenshot 1" width="600"/>
-  <br/><br/>
-  <img src="nav2.png" alt="Navbar Screenshot 2" width="600"/>
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="nav1.png" alt="Navbar Screenshot 1" width="400"/>
+        <br/>Desktop View
+      </td>
+      <td align="center">
+        <img src="nav2.png" alt="Navbar Screenshot 2" width="400"/>
+        <br/>Mobile View
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
